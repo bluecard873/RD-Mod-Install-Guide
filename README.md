@@ -1,7 +1,7 @@
 # 리듬닥터 모드 설치 가이드
 rhythm
 유니티 모드 메니저에
-<GameInfo Name="Rhythm Doctor">
+```<GameInfo Name="Rhythm Doctor">
 		<Folder>RD</Folder>
 		<ModsDirectory>Mods</ModsDirectory>
 		<ModInfo>Info.json</ModInfo>
@@ -11,6 +11,6 @@ rhythm
 		<UIStartingPoint>[Assembly-CSharp.dll]RDStartup.Setup:After</UIStartingPoint>
 		<MinimalManagerVersion>0.22.14</MinimalManagerVersion>
 		<Comment>Rhythm Doctor</Comment>
-</GameInfo> 
+</GameInfo> ```
 를 추가해주세요
 나모지는 얼불춤과 똑같습니다
