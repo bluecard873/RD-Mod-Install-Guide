@@ -1,5 +1,4 @@
 # 리듬닥터 모드 설치 가이드
-rhythm
 유니티 모드 메니저에
 ```
 <GameInfo Name="Rhythm Doctor">
